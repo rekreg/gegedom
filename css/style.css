@@ -1,0 +1,62 @@
+.navbar-default {
+    border-radius: 0px;
+        margin-bottom: 0px;
+
+    
+}
+
+.logo-style {
+  font-family: Play;
+  letter-spacing: 2px;  
+    
+}
+
+.logo-style span {
+   color: #001a33;
+   background: #e6f2ff;
+   padding: 2px;
+   border-radius: 3px;
+   margin-right: 4px; 
+   border-color: azure;
+}
+
+.my-label {
+    
+ color: aliceblue; 
+  
+    padding: 1px 5px 1px 5px;
+    /*border: 1px solid grey;
+    background-color: #14252c;
+    opacity: 0.7;
+    filter: alpha(opacity=70);*/
+}
+
+
+
+
+sup {
+    
+     padding: 0px 4px 0px 4px;
+   
+    
+}
+sup a {
+    
+    font-size: 60%;
+    color: aliceblue;
+    border-bottom: 1px dotted aliceblue;
+    cursor: pointer;
+    
+    
+}
+
+sup a:hover {
+    
+    font-size: 60%;
+    border-bottom: 1px dotted cornsilk;
+    cursor: pointer;
+    text-decoration: none;
+    color:cornsilk;
+    
+    
+}

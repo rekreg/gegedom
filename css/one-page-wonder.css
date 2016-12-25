@@ -1,0 +1,26 @@
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url(../img/1900_500_5.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    border: 0px;
+}
+
+.headline_index {
+    padding: 120px 0;
+}
+
+.headline_find_dom {
+    padding: 41px 0;
+}
+
+.headline_index h1, .headline_find_dom h1 {
+   color: aliceblue;
+}
+
+

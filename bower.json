@@ -1,0 +1,19 @@
+{
+  "name": "gegedom",
+  "homepage": "https://github.com/rekreg/gegedom",
+  "authors": [
+    "Andrew Nikolaev <rekreg@bk.ru>"
+  ],
+  "description": "",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "plugins",
+    "test",
+    "tests"
+  ]
+}
